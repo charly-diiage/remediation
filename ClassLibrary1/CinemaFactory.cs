@@ -8,7 +8,6 @@ namespace ClassLibrary1
     {
         public override Space createspace(AddItemsInProps item)
         {
-            //returns new Cinema
             return new Cinema(item.Type);
         }
     }
