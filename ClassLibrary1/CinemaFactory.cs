@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassLibrary1
 {
-    public class CinemaFactory : AbstractFactory //inheritance of AbstractFactory
+    public class CinemaFactory : AbstractFactory
     {
         public override Space createspace(AddItemsInProps item)
         {
