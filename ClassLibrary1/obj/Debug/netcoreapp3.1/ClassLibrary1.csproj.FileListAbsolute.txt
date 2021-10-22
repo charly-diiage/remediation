@@ -1,0 +1,9 @@
+E:\remediation\Remediation\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+E:\remediation\Remediation\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+E:\remediation\Remediation\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+E:\remediation\Remediation\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
